@@ -19,7 +19,7 @@ For example, consider this garden:
  | 2 | 2 | 3 | 0 | 4 | 0 | 3 | 0 | 
  | 3 | 1 | 7 | 0 | 2 | 1 | 2 | 3 | 
  | 4 | 9 | 3 | 0 | 4 | 2 | 0 | 3 | 
-| --- | --- | --- | --- | --- | --- | --- | --- |
+
 
 There are two center cells, at D2 and D3. The cell at D2 has more carrots (4 versus 2), so Baby Leveret starts there and eats the 4 carrots at D2.
 She then looks at the neighbors in WNES order and finds the highest carrot count is at D1. She eats the 4 carrots there.
